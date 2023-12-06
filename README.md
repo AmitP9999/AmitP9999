@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit Parad
 - 👀 I’m interested in Devops, AWS Cloud Administartion & Linux Administration 
-- 🌱 I’m currently learning Devops, Anisble , docker , Jenkins & Kuebernetis 
+- 🌱 I’m currently learning Devops, Anisble , docker , Jenkins & kubernetis
 - 📫 How to reach me ...amit.parad@gmail.com/ 9960172672
 
 <!---
