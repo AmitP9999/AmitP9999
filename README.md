@@ -3,7 +3,7 @@ With over 12 years of experience in designing, implementing, and managing scalab
 
 My expertise includes leveraging modern CI/CD practices to optimize and streamline software development, enabling teams to deploy faster and more reliably.
 
-📫 How to reach me ...amit.parad@gmail.com/ +919960172672
+📫 How to reach me ...amit.parad@gmail.com/ +919960172672 / +918830582905
 
 Core Competencies:
 Cloud Platforms: AWS (Amazon Web Services), Azure
