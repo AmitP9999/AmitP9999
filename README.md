@@ -22,7 +22,9 @@ Migrating on-premises workloads to the cloud with zero downtime.
 Implementing monitoring and alerting systems for critical infrastructure and applications.
 
 📚 Certifications:
+
 AWS Certified Solutions Architect – Professional
+
 Azure Administrator Associate
 
 Feel free to customize this README with your personal achievements, certifications, and tools!
