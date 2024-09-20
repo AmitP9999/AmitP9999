@@ -1,7 +1,11 @@
 👋 Hi, I’m @Amit Parad
-With over 12 years of experience in designing, implementing, and managing scalable cloud infrastructure and DevOps pipelines, I thrive at the intersection of cloud technologies and automation. My expertise includes leveraging modern CI/CD practices to optimize and streamline software development, enabling teams to deploy faster and more reliably.
+With over 12 years of experience in designing, implementing, and managing scalable cloud infrastructure and DevOps pipelines, I thrive at the intersection of cloud technologies and automation. 
+
+My expertise includes leveraging modern CI/CD practices to optimize and streamline software development, enabling teams to deploy faster and more reliably.
+
 📫 How to reach me ...amit.parad@gmail.com/ +919960172672
- Core Competencies:
+
+Core Competencies:
 Cloud Platforms: AWS (Amazon Web Services), Azure
 Containerization & Orchestration: Docker, Kubernetes
 Infrastructure as Code (IaC): Terraform, AWS CloudFormation
@@ -13,6 +17,7 @@ Scripting: Bash, Yaml &  Python
 
 Designing multi-region, fault-tolerant architectures on AWS and Azure.
 Building end-to-end CI/CD pipelines, automating application testing and deployment.
+
 Migrating on-premises workloads to the cloud with zero downtime.
 Implementing monitoring and alerting systems for critical infrastructure and applications.
 
