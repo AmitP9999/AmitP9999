@@ -8,19 +8,19 @@ My expertise includes leveraging modern CI/CD practices to optimize and streamli
 Core Competencies:
 Cloud Platforms: AWS (Amazon Web Services), Azure
 
-Containerization & Orchestration: Docker, Kubernetes
+Containerization & Orchestration: EKS, Docker
 
 Infrastructure as Code (IaC): Terraform, AWS CloudFormation
 
-CI/CD Pipelines: Jenkins, GitLab CI, GitHub Actions, AWS CodePipeline
+CI/CD Pipelines: Jenkins, AWS CodePipeline
 
 Configuration Management: Chef,Ansible
 
 Monitoring & Logging: Prometheus, Grafana, &  CloudWatch
 
-Version Control: Git, GitHub, GitLab
+Version Control: Git, GitHub, S3
 
-Scripting: Bash, Yaml &  Python
+Scripting: HCL, Bash, Yaml & Python
 
 Designing multi-region, fault-tolerant architectures on AWS and Azure.
 
