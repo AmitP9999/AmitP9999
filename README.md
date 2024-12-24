@@ -1,4 +1,4 @@
-👋 Hi, I’m @Amit Parad
+👋 Hi, I’m @Amit Parad overall having 12+ years of experience.
 With 5+ years of experience in designing, implementing, and managing scalable cloud infrastructure and DevOps pipelines, I thrive at the intersection of cloud technologies and automation. 
 
 My expertise includes leveraging modern CI/CD practices to optimize and streamline software development, enabling teams to deploy faster and more reliably.
