@@ -1,12 +1,12 @@
 👋 Hi, I’m @Amit Parad overall having 12+ years of experience.
-With 8+ years of experience in designing, implementing, and managing scalable cloud infrastructure and DevOps pipelines, I thrive at the intersection of cloud technologies and automation. 
+With 6+ years of experience in designing, implementing, and managing scalable cloud infrastructure and DevOps pipelines, I thrive at the intersection of cloud technologies and automation. 
 
 My expertise includes leveraging modern CI/CD practices to optimize and streamline software development, enabling teams to deploy faster and more reliably.
 
 📫 How to reach me ...amit.parad@gmail.com/ +919960172672 / +918830582905
 
 Core Competencies:
-Cloud Platforms: AWS (Amazon Web Services), Azure
+Cloud Platforms: AWS (Amazon Web Services), Azure, GCP
 
 Containerization & Orchestration: EKS, Docker
 
